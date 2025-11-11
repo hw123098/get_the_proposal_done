@@ -1,0 +1,5 @@
+{
+  "name": "Academic Research Explorer",
+  "description": "An AI-powered tool to expand research topics, discover related literature, and visualize academic domains. Uses a dynamic tree and network graph to help brainstorm and organize research ideas.",
+  "requestFramePermissions": []
+}
